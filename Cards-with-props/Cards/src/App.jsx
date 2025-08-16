@@ -6,7 +6,7 @@ import "./App.css";
 export default function App() {
   return (
     <div className="main">
-      <h1 className="title">Product Cards Example</h1>
+      <h1 className="title">Product Cards </h1>
       <div className="wrapper">
         {data.map((item) => (
           <Card
