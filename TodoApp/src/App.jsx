@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./App.css"; // external CSS file import
+import "./App.css"; 
 
 function App() {
   const [todoList, setTodoList] = useState([]);
